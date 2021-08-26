@@ -168,11 +168,11 @@ const vcard = 'BEGIN:VCARD\n' //Jangan Di edit^_^
             //AMEL CANTIK
             + 'VERSION:3.0\n' //Jangan Di edit^_^
             //AMEL CANTIK
-            + 'FN:𝐽𝑖ℎ𝑎𝑑ツ\n' // Ganti^_^
+            + 'FN:Aneesツ\n' // Ganti^_^
             //AMEL CANTIK
-            + 'ORG:𝐽𝑖ℎ𝑎𝑑 𝑆𝑒𝑟ツ;\n' //Ganti^_^
+            + 'ORG:ANEES 𝑆𝑒𝑟ツ;\n' //Ganti^_^
             //AMEL CANS
-            + 'TEL;type=CELL;type=VOICE;waid=917736703116:+917736703116\n' //Nomor Kamu^_^
+            + 'TEL;type=CELL;type=VOICE;waid=917356378949:+917356378949\n' //Nomor Kamu^_^
             //AMEL CANS
             + 'END:VCARD' //Jangan Di edit^_^
             //AMEL CANS
